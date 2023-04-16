@@ -1,0 +1,55 @@
+I have Apples
+I have Watermelons
+I have Oranges
+I have Pears
+I have Strawberrys
+I dont have Grapes
+I have Plums
+I have Mangos
+I have Blueberrys
+I have Papayas
+I have Apricots
+I have Mandarins
+I have Bananas
+I have Grapefruits
+I have Lemons
+I have Limes
+I dont have Pineapples
+I have Jackfruits
+I have Melons
+I have Coconuts
+I have Avocados
+I have Peachs
+I have Kiwis
+I have Blackcurrants
+I have Blackberrys
+I have Cherrys
+I have Figs
+I have Lychees
+I have Nectarines
+I dont have Passionfruits
+I have Quinces
+I have Raspberrys
+I have Tangerines
+I have Pomegranates
+I have Mulberrys
+I have Starfruits
+I have Guavas
+I have Pomelos
+I have Cranberrys
+I have Tamarillos
+I have Curubas
+I have Soursops
+I have Uchuvas
+I have Melon Cantaloupes
+I have Granadillas
+I dont have Durians
+I have Dragon Fruits
+I have Longans
+I have Rambutans
+I have Rose Apples
+I have Star Apples
+I have Tamarinds
+I have Persimmons
+I have Mangosteens
+I have Amlas
